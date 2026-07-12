@@ -1,7 +1,7 @@
-name = "Amir"        
-age = 20             
-height = 1.75        
-is_student = True  
-sentences = "MY name is shams "
-print(f"My name is {name}, I am {age}, and I love {sentences} , and my height is {height}.")
-print(age + 10)
+name = "Shamsulhuda"        
+age = 22             
+height = 1.73        
+is_learning_ai = True  
+subject = "computer science"
+print(f"My name is {name}, I am {age + 20}, and I love {subject} , and my height is {height + 1.2}.")
+
